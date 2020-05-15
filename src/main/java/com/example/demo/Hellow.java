@@ -13,6 +13,6 @@ public class Hellow {
 	@RequestMapping("/")
 	public void hello( HttpServletResponse response ) throws IOException {
 
-		response.getWriter().print("test111s");
+		response.getWriter().print("test2222");
 	}
 }
